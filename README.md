@@ -2,6 +2,7 @@
 # Alekya 
 
 ## About-me
+![Image](https://github.com/AlekyaPochampally/big-data-dev-/blob/master/MSWP4835.JPG?raw=true)
 
 ## Current: 
 - I am currently pursuing my masters studying Applied Computer Science at Northwest Missouri state university 
@@ -14,7 +15,10 @@
 - looking forward to become a full stack developer
 
 ## Link:
-[LinkedIn profile](https://www.linkedin.com/in/alekya-pochampally-643a07112/)- Link to my linkedin profile.
+- [LinkedIn profile](https://www.linkedin.com/in/alekya-pochampally-643a07112/)- Link to my linkedin profile.
 
-## Image:
-![Image](https://github.com/AlekyaPochampally/big-data-dev-/blob/master/MSWP4835.JPG?raw=true)
+## Shell Data Processing repo link:
+- [Shell Data Processing](https://github.com/AlekyaPochampally/shell-data-processing)- link to my shell data processing repository
+
+
+
