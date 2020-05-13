@@ -15,3 +15,6 @@
 
 ## Link:
 [LinkedIn profile](https://www.linkedin.com/in/alekya-pochampally-643a07112/)- Link to my linkedin profile.
+
+## Image:
+![Image](https://github.com/AlekyaPochampally/big-data-dev-/blob/master/MSWP4835.JPG?raw=true)
